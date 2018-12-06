@@ -1,0 +1,10 @@
+*.simg
+*.zip
+*.sif
+*.gz
+*.tar.gz
+*.tar.bz2
+*.vcf
+*.bam
+*.fa
+*.fasta
