@@ -1,4 +1,4 @@
-# Ensembl Variant Effect Predictor
+# Ensembl Variant Effect Predictor, singularity containers
 
 McLaren W, Gil L, Hunt SE, Riat HS, Ritchie GR, Thormann A, Flicek P, Cunningham F.
 The Ensembl Variant Effect Predictor.
